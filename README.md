@@ -1,16 +1,51 @@
-## Hi there 👋
+Absolutely! Here's a polished and professional update for your GitHub profile `README.md`, with clear sections, highlights, and emoji to make it visually engaging and informative:
 
+---
 
-**puravdhanki/puravdhanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm **Purav Dhanki**!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast who loves building intuitive, responsive, and real-world web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 🚀 About Me
+
+- 🔭 I’m currently working on:  
+  **[EduMosaic](https://github.com/puravdhanki/edumosaic)** – A smart learning management system for educational institutions, powered by Firebase and modern web tech.  
+  **[AutoParts Hub](https://autoparts-hub.netlify.app/)** – A fully functional online platform for browsing and buying auto parts.
+
+- 🌱 I’m currently learning:  
+  `React.js`, `Node.js`, and improving my skills with `Firebase` and `API integrations`.
+
+- 💡 I'm interested in:  
+  Building real-time web apps, designing sleek user interfaces, and creating systems that solve practical problems.
+
+- 👯 I’m looking to collaborate on:  
+  Full-stack projects, open-source tools, and community-driven solutions. Let’s build something awesome together!
+
+- 💬 Ask me about:  
+  HTML, CSS, JavaScript, Firebase, GitHub Projects, UI/UX, and Web Hosting.
+
+- 📫 How to reach me:  
+  Drop me a message on [LinkedIn](https://www.linkedin.com/in/puravdhanki) or email me at:  
+  **📧 puravv27@gmail.com**
+
+- ⚡ Fun fact:  
+  I manage both **Logistics** and **Creative teams** in my organization, and I love blending tech with creativity!
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend**: `HTML` | `CSS` | `JavaScript (ES6+)`  
+- **Backend**: `Firebase (Auth, Firestore, Realtime DB)` | `PowerBase`  
+- **Tools**: `Git & GitHub` | `Netlify` | `VS Code`  
+- **UI/UX**: Responsive design, Clean UI principles
+
+---
+
+## 📊 GitHub Stats
+
+![Purav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=puravdhanki&show_icons=true&theme=tokyonight)
+
+---
