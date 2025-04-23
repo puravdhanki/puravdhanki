@@ -1,7 +1,3 @@
-Absolutely! Here's a polished and professional update for your GitHub profile `README.md`, with clear sections, highlights, and emoji to make it visually engaging and informative:
-
----
-
 # 👋 Hi there, I'm **Purav Dhanki**!
 
 Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast who loves building intuitive, responsive, and real-world web applications.
@@ -27,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
   HTML, CSS, JavaScript, Firebase, GitHub Projects, UI/UX, and Web Hosting.
 
 - 📫 How to reach me:  
-  Drop me a message on [LinkedIn](https://www.linkedin.com/in/puravdhanki) or email me at:  
+  Drop me a message on [LinkedIn](www.linkedin.com/in/purav-dhanki-b60255241) or email me at:  
   **📧 puravv27@gmail.com**
 
 - ⚡ Fun fact:  
