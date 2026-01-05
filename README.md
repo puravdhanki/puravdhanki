@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm **Purav Dhanki**!
 
 Welcome to my GitHub!
+
 Web Developer | Power BI & Data Analytics Enthusiast | Building intuitive, real-world solutions.
 
 ---
