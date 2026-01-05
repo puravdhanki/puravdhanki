@@ -1,3 +1,9 @@
+# 👋 Hi there, I'm **Purav Dhanki**!
+
+Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast who loves building intuitive, responsive, and real-world web applications.
+
+---
+
 # 💫 About Me:
 Aspiring Data Analyst / Power BI Developer with a strong interest in Power BI and Data Analysis. Skilled in creating interactive dashboards, defining KPIs, and building basic DAX measures to convert raw data into meaningful insights. Brings hands-on leadership experience from managing college events and teams, with a strong learning mindset and problem-solving approach.
 
